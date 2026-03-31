@@ -1,0 +1,10 @@
+{
+  "name": "decentralized-insurance-pool",
+  "version": "1.0.0",
+  "description": "On-chain Risk Management and Claims Engine",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
